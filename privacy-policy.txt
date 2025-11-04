@@ -1,0 +1,38 @@
+Privacy Policy for Super Number Bubbles
+Effective Date: October 29th, 2025
+
+Super Number Bubbles (“the App”) is a casual mobile game developed and published by an independent developer (“we,” “us,” or “our”). 
+This Privacy Policy explains how we handle information when you use our App.
+
+1. Information We Collect
+Super Number Bubbles itself does not collect, store, or share any personal information directly.
+However, the App uses Google AdMob, a third-party advertising service provided by Google LLC, which may collect certain data automatically for the purpose of showing and measuring ads.
+This may include:
+- Device identifiers (such as Advertising ID)
+- Approximate location (based on IP address)
+- App interaction and usage data
+To learn more, see Google’s Privacy Policy: https://policies.google.com/privacy
+
+2. How Information Is Used
+Data collected by Google AdMob is used to:
+- Display and measure in-app advertisements
+- Personalize ads (if permitted by the user’s device settings)
+- Improve ad performance and relevance
+We do not access or control this data directly.
+
+3. Opt-Out and Controls
+You can limit or opt out of ad personalization at any time:
+- On iOS, go to Settings → Privacy → Tracking and adjust permissions.
+- You may also reset your device’s Advertising Identifier.
+
+4. Children’s Privacy
+Super Number Bubbles is intended for general audiences and does not knowingly collect personal data from children under 13.
+If you believe a child has provided personal information, please contact us so we can delete it.
+
+5. Changes to This Policy
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
+
+6. Contact Us
+Contact us at BogDogGamesLLC@gmail.com with any questions or comments.
+
+© 2025 Super Number Bubbles
